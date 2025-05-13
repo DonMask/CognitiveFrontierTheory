@@ -1,6 +1,6 @@
 # Beyond the Known: A Unified Theory of Cognitive Limits
 
-This repository contains the LaTeX source and compiled PDF for the essay **“Beyond the Known: A Unified Theory of Cognitive Limits”** by Teodor Berger, presenting the Cognitive Frontier Theory (CFT) and Axiom 13.
+This repository contains the LaTeX source and compiled PDF for the essay **“Beyond the Known: A Unified Theory of Cognitive Limits”** and presenting the Cognitive Frontier Theory (CFT) and Axiom 13.
 
 ## Access the Essay
 
